@@ -23,7 +23,7 @@ const PostLayout: React.FC<{post: Post}> = ({ post }) => {
         <h1 className="text-6xl font-bold text-blue-500">{post.title}</h1> 
         <div className="mt-8 text-white" dangerouslySetInnerHTML={{__html: post.body.html}} />
     </div>
-
+g
     {
       post?.image && (
         <div className='mx-auto mt-8 flex items-center w-full justify-center'>
