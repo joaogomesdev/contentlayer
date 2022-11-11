@@ -1,0 +1,18 @@
+{
+  "title": "Second Post!",
+  "date": "2022-10-11T00:00:00.000Z",
+  "body": {
+    "raw": " \n\nAliquip laborum ea Lorem velit anim elit minim voluptate incididunt consectetur eu. Est nisi et labore consequat irure in ut quis pariatur dolore sit proident aliqua. Ad aute enim incididunt nostrud quis do adipisicing.\n",
+    "html": "<p>Aliquip laborum ea Lorem velit anim elit minim voluptate incididunt consectetur eu. Est nisi et labore consequat irure in ut quis pariatur dolore sit proident aliqua. Ad aute enim incididunt nostrud quis do adipisicing.</p>"
+  },
+  "_id": "my-second-post.md",
+  "_raw": {
+    "sourceFilePath": "my-second-post.md",
+    "sourceFileName": "my-second-post.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "my-second-post"
+  },
+  "type": "Post",
+  "url": "/posts/my-second-post"
+}

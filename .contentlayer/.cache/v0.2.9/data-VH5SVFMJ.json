@@ -1,0 +1,48 @@
+{
+  "cacheItemsMap": {
+    "my-first-post.md": {
+      "document": {
+        "title": "Hello World!",
+        "date": "2022-10-11T00:00:00.000Z",
+        "body": {
+          "raw": " \n\nDeserunt irure do eiusmod esse mollit culpa. Magna velit deserunt amet excepteur amet. Adipisicing eiusmod dolore occaecat commodo minim ut non reprehenderit anim veniam. Magna nulla dolore ad proident. Amet culpa ut quis veniam eiusmod exercitation incididunt nisi ea mollit eu nostrud labore. Ex aliqua amet veniam anim. Nostrud quis officia aliquip ullamco quis non.",
+          "html": "<p>Deserunt irure do eiusmod esse mollit culpa. Magna velit deserunt amet excepteur amet. Adipisicing eiusmod dolore occaecat commodo minim ut non reprehenderit anim veniam. Magna nulla dolore ad proident. Amet culpa ut quis veniam eiusmod exercitation incididunt nisi ea mollit eu nostrud labore. Ex aliqua amet veniam anim. Nostrud quis officia aliquip ullamco quis non.</p>"
+        },
+        "_id": "my-first-post.md",
+        "_raw": {
+          "sourceFilePath": "my-first-post.md",
+          "sourceFileName": "my-first-post.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "my-first-post"
+        },
+        "type": "Post"
+      },
+      "documentHash": "1668203559037",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "my-second-post.md": {
+      "document": {
+        "title": "Nine Eleven!",
+        "date": "2022-10-11T00:00:00.000Z",
+        "body": {
+          "raw": " \n\nAliquip laborum ea Lorem velit anim elit minim voluptate incididunt consectetur eu. Est nisi et labore consequat irure in ut quis pariatur dolore sit proident aliqua. Ad aute enim incididunt nostrud quis do adipisicing.\n",
+          "html": "<p>Aliquip laborum ea Lorem velit anim elit minim voluptate incididunt consectetur eu. Est nisi et labore consequat irure in ut quis pariatur dolore sit proident aliqua. Ad aute enim incididunt nostrud quis do adipisicing.</p>"
+        },
+        "_id": "my-second-post.md",
+        "_raw": {
+          "sourceFilePath": "my-second-post.md",
+          "sourceFileName": "my-second-post.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "my-second-post"
+        },
+        "type": "Post"
+      },
+      "documentHash": "1668203628616",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}
