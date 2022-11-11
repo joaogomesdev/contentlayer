@@ -28,6 +28,10 @@
 
 ✨ An simple blog built to study Contentlayer library 📚
 
+## :statue_of_liberty: Hosted Demo
+
+[Vercel hosted demo](https://contentlayer-mu.vercel.app)
+
 ## :rocket: Technologies 
 
 The following tools/dependencies were used in this project:
