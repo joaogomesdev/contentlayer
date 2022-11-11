@@ -15,6 +15,7 @@ export type Post = {
   type: 'Post'
   title: string
   date: IsoDateTimeString
+  image?: string | undefined
   /** Markdown file body */
   body: Markdown
   url: string

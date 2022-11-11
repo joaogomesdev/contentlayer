@@ -1,6 +1,7 @@
 ---
 title: Lorem Ipsum
 date: 2021-12-24
+image: https://i.imgur.com/cSiC0Pv.jpg
 ---
 
 Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum
